@@ -1,8 +1,2 @@
 
-touch
-vi 
-git add .
-git push
-git branch
-git checkout
-cd
+git pull
