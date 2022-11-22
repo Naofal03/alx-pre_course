@@ -1,0 +1,9 @@
+
+touch
+vi
+git add .
+git commit 
+git push
+cd
+git branch
+git checkout
